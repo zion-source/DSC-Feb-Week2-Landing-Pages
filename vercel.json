@@ -1,0 +1,92 @@
+{
+  "rewrites": [
+    {
+      "source": "/ananya-amplitude",
+      "destination": "/Amplitude_Ananya_Tomar_landing_page.html"
+    },
+    {
+      "source": "/julie-atlan",
+      "destination": "/Atlan_Julie_Miller_landing_page.html"
+    },
+    {
+      "source": "/kaleigh-atlan",
+      "destination": "/Atlan_Kaleigh_Hickey_landing_page.html"
+    },
+    {
+      "source": "/anna-glean",
+      "destination": "/Glean_Anna_Chibukhchyan_landing_page.html"
+    },
+    {
+      "source": "/baptiste-glean",
+      "destination": "/Glean_Baptiste_Pouilloux_landing_page.html"
+    },
+    {
+      "source": "/izzy-glean",
+      "destination": "/Glean_Izzy_Crouch_landing_page.html"
+    },
+    {
+      "source": "/katy-glean",
+      "destination": "/Glean_Katy_Abbaszadeh_landing_page.html"
+    },
+    {
+      "source": "/nicole-glean",
+      "destination": "/Glean_Nicole_Demos_landing_page.html"
+    },
+    {
+      "source": "/alexa-hex",
+      "destination": "/Hex_Alexa_Young_landing_page.html"
+    },
+    {
+      "source": "/lucas-hex",
+      "destination": "/Hex_Lucas_Golon_landing_page.html"
+    },
+    {
+      "source": "/franziska-microsoft",
+      "destination": "/Microsoft_Franziska_Pilger_landing_page.html"
+    },
+    {
+      "source": "/sharon-microsoft",
+      "destination": "/Microsoft_Sharon_Berg_landing_page.html"
+    },
+    {
+      "source": "/alexandra-oracle",
+      "destination": "/Oracle_Alexandra_Dietz_landing_page.html"
+    },
+    {
+      "source": "/kami-oracle",
+      "destination": "/Oracle_Kami_Hilkemeier_landing_page.html"
+    },
+    {
+      "source": "/kelly-oracle",
+      "destination": "/Oracle_Kelly_Verratti_landing_page.html"
+    },
+    {
+      "source": "/makenna-oracle",
+      "destination": "/Oracle_Makenna_Knell_landing_page.html"
+    },
+    {
+      "source": "/sasha-oracle",
+      "destination": "/Oracle_Sasha_Papagni_landing_page.html"
+    },
+    {
+      "source": "/andrea-pure-storage",
+      "destination": "/Pure_Storage_Andrea_Christian_landing_page.html"
+    },
+    {
+      "source": "/jill-pure-storage",
+      "destination": "/Pure_Storage_Jill_Palmisano_landing_page.html"
+    },
+    {
+      "source": "/elizabeth-dbt-labs",
+      "destination": "/dbt_Labs_Elizabeth_Sparks_landing_page.html"
+    },
+    {
+      "source": "/katherine-dbt-labs",
+      "destination": "/dbt_Labs_Katherine_Conlon_landing_page.html"
+    },
+    {
+      "source": "/tiera-dbt-labs",
+      "destination": "/dbt_Labs_Tiera_Fann_landing_page.html"
+    }
+  ]
+}
